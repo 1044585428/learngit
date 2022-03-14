@@ -1,2 +1,3 @@
-Git is a greate version control system
+Git is a great version control system
 Git is free softWare
+wdnmd
